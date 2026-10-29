@@ -30,7 +30,7 @@ People with severe motor impairments often cannot use touchscreens or styluses. 
 
 ---
 
-## How It Works!
+## How It Workss
 
 ```
 Front Camera (ImageProxy)
